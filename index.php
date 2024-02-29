@@ -1,5 +1,4 @@
 <?php require_once "config/conexion.php"; ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,8 +12,7 @@
     <!-- Bootstrap icons-->
     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" /> -->
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="styles.css" rel="stylesheet" />
-    <link href="estilos.css" rel="stylesheet" />
+
 </head>
 
 <body onload=ultimopaso();>
@@ -121,8 +119,7 @@
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/scripts.js"></script>
+
     <span class="ir-arriba">Subir</span>
 </body>
 
